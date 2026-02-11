@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kangdonggu.8222quick.com/sitemap.xml
+
+
+
